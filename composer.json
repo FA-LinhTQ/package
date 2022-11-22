@@ -1,0 +1,17 @@
+{
+    "name": "linhtq/package",
+    "description": "this is mys first package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Linhtq\\Package\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Linh Tran",
+            "email": "linhtq1@firegroup.io"
+        }
+    ],
+    "require": {}
+}
